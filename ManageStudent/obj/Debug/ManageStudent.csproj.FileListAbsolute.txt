@@ -1,0 +1,11 @@
+C:\Users\DELL\source\repos\ManageStudent\ManageStudent\bin\Debug\ManageStudent.exe.config
+C:\Users\DELL\source\repos\ManageStudent\ManageStudent\bin\Debug\ManageStudent.exe
+C:\Users\DELL\source\repos\ManageStudent\ManageStudent\bin\Debug\ManageStudent.pdb
+C:\Users\DELL\source\repos\ManageStudent\ManageStudent\obj\Debug\ManageStudent.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\ManageStudent\ManageStudent\obj\Debug\ManageStudent.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\source\repos\ManageStudent\ManageStudent\obj\Debug\ManageStudent.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\ManageStudent\ManageStudent\obj\Debug\ManageStudent.exe
+C:\Users\DELL\source\repos\ManageStudent\ManageStudent\obj\Debug\ManageStudent.pdb
+C:\Users\DELL\source\repos\ManageStudent\ManageStudent\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DELL\source\repos\ManageStudent\ManageStudent\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DELL\source\repos\ManageStudent\ManageStudent\obj\Debug\ManageStudent.csproj.CopyComplete
